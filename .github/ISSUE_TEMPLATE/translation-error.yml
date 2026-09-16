@@ -1,0 +1,30 @@
+name: Errore di traduzione
+about: Segnala un errore o una stringa da correggere
+labels: translation
+body:
+  - type: input
+    id: string
+    attributes:
+      label: Stringa o riferimento
+      description: Inserisci il testo, l'ID o il link alla stringa su Crowdin.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema riscontrato
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Correzione suggerita
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Controlli
+      options:
+        - label: Ho verificato il contesto della stringa.
+          required: true
+        - label: Il problema non è già stato segnalato.
+          required: true

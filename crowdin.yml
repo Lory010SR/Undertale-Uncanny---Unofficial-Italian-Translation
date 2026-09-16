@@ -1,0 +1,6 @@
+files:
+  - source: /en.json
+    translation: /%two_letters_code%.json
+    translate_attributes: 0
+    translate_content: 1
+    content_segmentation: 0

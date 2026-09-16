@@ -1,0 +1,23 @@
+name: Richiesta di revisione
+about: Richiedi la revisione di una traduzione
+labels: review
+body:
+  - type: input
+    id: string
+    attributes:
+      label: Stringa o riferimento Crowdin
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contesto
+      description: Spiega dove appare la stringa nel gioco.
+    validations:
+      required: true
+  - type: textarea
+    id: translation
+    attributes:
+      label: Traduzione da revisionare
+    validations:
+      required: true

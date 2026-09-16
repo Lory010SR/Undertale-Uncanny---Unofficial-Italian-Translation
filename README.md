@@ -61,7 +61,7 @@ Per mantenere una traduzione compatibile con il gioco, si segue sempre questa re
 ## 📣 Crediti
 
 - Game original: Undertale: Uncanny by Vinesoft
-- Localizzazione italiana: team del progetto
+- Localizzazione italiana: Save Point Translations
 
 ---
 

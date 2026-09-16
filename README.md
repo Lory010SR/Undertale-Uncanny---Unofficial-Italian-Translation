@@ -64,5 +64,3 @@ Per mantenere una traduzione compatibile con il gioco, si segue sempre questa re
 - Localizzazione italiana: Save Point Translations
 
 ---
-
-Se vuoi, posso anche prepararti una seconda versione più "professionale" o una versione più "da community gamer" con stile più accattivante e moderno.
